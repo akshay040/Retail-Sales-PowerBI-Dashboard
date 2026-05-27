@@ -1,5 +1,22 @@
 # Retail Sales Performance Dashboard
 
+## Dataset Source
+The dataset used in this project is the **Sample Superstore** dataset, commonly used for retail sales analysis and dashboarding practice.
+
+Source: [Kaggle – Sample Superstore Dataset](https://www.kaggle.com/datasets/vivek468/superstore-dataset-final)
+
+The original dataset contains order-level retail transaction data, including:
+- sales
+- profit
+- discount
+- quantity
+- customer segment
+- product category
+- region and state
+- order and shipping dates
+
+A cleaned version of the dataset (`superstore_cleaned.csv`) was created in Python and used for the Power BI dashboard.
+
 ## Project Overview
 This project analyses retail sales data to identify key business trends, profitability drivers, customer segment performance, regional sales patterns, and discount impact. The project uses Python for data cleaning and exploratory data analysis, and Power BI for interactive dashboard reporting.
 
