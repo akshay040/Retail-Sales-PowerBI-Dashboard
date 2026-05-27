@@ -1,5 +1,8 @@
 # Retail Sales Performance Dashboard
 
+## How to View the Dashboard
+Download the `.pbix` file from the `dashboard/` folder and open it using Power BI Desktop. Dashboard screenshots are also included in the `images/` folder for quick preview.
+
 ## Dataset Source
 The dataset used in this project is the **Sample Superstore** dataset, commonly used for retail sales analysis and dashboarding practice.
 
